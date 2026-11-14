@@ -1,0 +1,25 @@
+# TIA Portal temp files
+*.lock
+*.tmp
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Private Academic Deliverables (Reports, Slides, Presentations)
+docs/
+*.pdf
+*.pptx
+*.ppt
+*.docx
+*.doc
+
+# Media & Videos
+media/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
