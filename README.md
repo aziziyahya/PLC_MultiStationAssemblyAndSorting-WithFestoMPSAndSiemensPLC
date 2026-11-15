@@ -14,7 +14,7 @@
 
 This project presents a multi-station automated industrial manufacturing cell based on the **Festo Modular Production System (MPS)** and controlled via **Siemens PLC** using **Totally Integrated Automation (TIA) Portal V16**.
 
-The system automates the complete lifecycle of a workpiece: continuous automated feeding, precision cap placement and pressing, and automated multi-criteria sorting. A key engineering highlight of this design is its **hardwired safety interlock architecture**, which ensures fail-safe synchronization and zero-latency fault propagation across all three stations.
+The system automates the complete lifecycle of a workpiece: continuous automated feeding, precision cap placement and pressing, and automated multi-criteria sorting. A key technical highlight of this design is its **hardwired safety interlock architecture**, which ensures fail-safe synchronization and zero-latency fault propagation across all three stations.
 
 <div align="center">
   <img src="assets/plc_system.png" alt="3-Station Festo MPS Conveyor Assembly & Sorting Line" width="100%" />
