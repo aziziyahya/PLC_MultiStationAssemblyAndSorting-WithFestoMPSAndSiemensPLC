@@ -31,8 +31,12 @@ The system automates the complete lifecycle of a workpiece: continuous automated
 
 ## ⚙️ 3-Station Automated Manufacturing Architecture
 
+<div align="center">
+
 <details>
-<summary><b>📐 Click to expand Station Process Flow Diagram</b></summary>
+<summary align="center"><b>📐 Click to expand Station Process Flow Diagram</b></summary>
+
+<br/>
 
 ```mermaid
 flowchart LR
@@ -74,6 +78,8 @@ flowchart LR
 
 </details>
 
+</div>
+
 ### 1. Distribution Station
 - **Function:** Automatically dispenses raw cylindrical workpieces onto the conveyor at a calibrated pace.
 - **Actuation:** Double-acting pneumatic cylinder with reed position switches.
@@ -96,8 +102,12 @@ flowchart LR
 
 ## 🛡️ Safety & Fault Propagation Architecture
 
+<div align="center">
+
 <details>
-<summary><b>🚨 Click to expand Safety & Fault Latched State Diagram</b></summary>
+<summary align="center"><b>🚨 Click to expand Safety & Fault Latched State Diagram</b></summary>
+
+<br/>
 
 ```mermaid
 stateDiagram-v2
@@ -122,6 +132,8 @@ stateDiagram-v2
 ```
 
 </details>
+
+</div>
 
 ### Why Hardwired Jumper Safety Interlocking?
 Rather than relying exclusively on networked software messaging (which introduces bus cycle latency and CPU communication overhead), the three stations incorporate **hardwired interlock jumpers**:
