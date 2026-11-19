@@ -196,6 +196,6 @@ Developed as part of **NMT12505: Industrial Automation II** within the **Industr
 
 | Contributor | Matric ID | Focus Area |
 |---|---|---|
-| **Nik Mohamad Azizi Nik Yahya** | `241503239` | PLC Logic & Safety Interlocks |
-| **Muhammad Farid Irfan Suhaimi** | `241503230` | Station Integration & Hardware |
+| **Nik Mohamad Azizi Bin Nik Yahya** | `241503239` | PLC Logic & Safety Interlocks |
+| **Muhammad Farid Irfan Bin Suhaimi** | `241503230` | Station Integration & Hardware |
 
