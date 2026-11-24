@@ -156,7 +156,7 @@ Rather than relying exclusively on networked software messaging (which introduce
 ## 📁 Repository Structure
 
 ```
-PLC_AutomatedConveyorSorting/
+PLC_MultiStationAssemblyAndSorting-WithFestoMPSAndSiemensPLC/
 ├── assets/                           # High-res hardware and station photos
 ├── plc/
 │   └── MiniProject_AziziFarid v4.zap16         # Siemens TIA Portal V16 project archive
@@ -167,6 +167,13 @@ PLC_AutomatedConveyorSorting/
 ---
 
 ## 🔧 How to Open the Project in TIA Portal
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/aziziyahya/PLC_MultiStationAssemblyAndSorting-WithFestoMPSAndSiemensPLC.git
+cd PLC_MultiStationAssemblyAndSorting-WithFestoMPSAndSiemensPLC
+```
 
 ### Compatibility
 - **Software:** Siemens **TIA Portal V16** or higher (V17, V18, V19 will prompt an automatic project upgrade upon opening).
